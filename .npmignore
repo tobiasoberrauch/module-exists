@@ -1,0 +1,7 @@
+/test/
+.editorconfig
+.jshintrc
+.travis.yml
+Gruntfile.js
+*.sublime-*
+.idea

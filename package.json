@@ -5,15 +5,16 @@
   "scripts": {
     "test": "nodeunit test/test.js"
   },
-  "version": "0.1.1",
+  "version": "0.2.1",
   "homepage": "https://github.com/tobiasoberrauch/module-exists",
   "author": {
-    "name": "Francois-Guillaume Ribreau"
+    "name": "Tobias Oberrauch"
   },
-  "contributors": {
-    "name": "Tobias Oberrauch",
-    "email": "tobias.oberrauch@grolba.de"
-  },
+  "contributors": [
+    {
+      "name": "Tushar Mathur"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git@github.com:tobiasoberrauch/module-exists.git"

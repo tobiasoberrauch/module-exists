@@ -24,3 +24,4 @@ npm test
 ```
 
 Inspired by [Francois-Guillaume Ribreau](https://gist.github.com/FGRibreau/3135914)
+Contributors: [Tushar Mathur](https://github.com/tusharmath) (typescript)

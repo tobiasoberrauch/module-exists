@@ -3,9 +3,9 @@
   "description": "Check if a node module or file exists or not",
   "main": "./lib",
   "scripts": {
-    "test": "nodeunit test/test.js"
+    "test": "jest"
   },
-  "version": "0.2.1",
+  "version": "0.4.0",
   "homepage": "https://github.com/tobiasoberrauch/module-exists",
   "author": {
     "name": "Tobias Oberrauch"
@@ -13,6 +13,9 @@
   "contributors": [
     {
       "name": "Tushar Mathur"
+    },
+    {
+      "name": "André Cruz"
     }
   ],
   "repository": {
@@ -20,7 +23,7 @@
     "url": "git@github.com:tobiasoberrauch/module-exists.git"
   },
   "devDependencies": {
-    "nodeunit": "~0.7.4"
+    "jest": "^26.1.0"
   },
   "keywords": [
     "core",
